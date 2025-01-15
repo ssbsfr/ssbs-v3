@@ -1,0 +1,1 @@
+# pattern: React + Vite + react-icons + sass
